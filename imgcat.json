@@ -1,19 +1,19 @@
 {
-    "version": "1.0.12",
+    "version": "1.0.13",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.12/imgcat_1.0.12_Windows_i386.tar.gz",
+            "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.13/imgcat_1.0.13_Windows_i386.tar.gz",
             "bin": [
                 "imgcat.exe"
             ],
-            "hash": "8411c5532ea3af8dd82f5ad59922450349a6bad8030958f5b171e0b82f242262"
+            "hash": "3345b16cf48f8b61a007b3087d09d651bd9983baddde15310e0714e309b92e37"
         },
         "64bit": {
-            "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.12/imgcat_1.0.12_Windows_x86_64.tar.gz",
+            "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.13/imgcat_1.0.13_Windows_x86_64.tar.gz",
             "bin": [
                 "imgcat.exe"
             ],
-            "hash": "22a0dfc88fbcf84bf7e6ade5f3511956452b9c78d8fadf8dfe1c8a51d166d0a4"
+            "hash": "69f26849210f2beb73d74828dc45028a8816a09393d1adffea92e6e791e4792f"
         }
     },
     "description": "Display images and gifs in your terminal"
