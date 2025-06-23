@@ -1,26 +1,26 @@
 {
-    "version": "1.0.21",
+    "version": "1.0.22",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.21/imgcat_1.0.21_windows_386.zip",
+            "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.22/imgcat_1.0.22_windows_386.zip",
             "bin": [
                 "imgcat.exe"
             ],
-            "hash": "3c1c2c893d9b6cc71c17292a772df44f42928af24f264622348d8b478672613f"
+            "hash": "e37527826c276f0ba8d8d14888454455f6f9a8eb0f75c9a90252c3677145b7bf"
         },
         "64bit": {
-            "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.21/imgcat_1.0.21_windows_amd64.zip",
+            "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.22/imgcat_1.0.22_windows_amd64.zip",
             "bin": [
                 "imgcat.exe"
             ],
-            "hash": "b160dd11de2c0ef1a7eecd1fea39afa70b030aa6c2d8b1827e66e8d65b773fad"
+            "hash": "8bfb5896881948cb1ad17a7eec941af6a82f4f9a05990e5e96fa15b7b96cb58e"
         },
         "arm64": {
-            "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.21/imgcat_1.0.21_windows_arm64.zip",
+            "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.22/imgcat_1.0.22_windows_arm64.zip",
             "bin": [
                 "imgcat.exe"
             ],
-            "hash": "548ed5c2941a9c12141463055d627926008c5c04eece8850868a30b5055642e5"
+            "hash": "4938cc6963c391ec1fca91b2f6c29e2eb96c4583ed426b138f330c4945d778cc"
         }
     },
     "description": "Display images and gifs in your terminal"
