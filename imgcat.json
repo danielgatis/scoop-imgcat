@@ -6,21 +6,21 @@
             "bin": [
                 "imgcat.exe"
             ],
-            "hash": "abfd37d80a3e45a44554c028b957f368225fa3e89b0bd445b4a177c9f31ef3b8"
+            "hash": "b02816913246eb7c27e966523f3306d6383d78924c2828f54e81e144ba64526b"
         },
         "64bit": {
             "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.23/imgcat_1.0.23_windows_amd64.zip",
             "bin": [
                 "imgcat.exe"
             ],
-            "hash": "cf22d6e61b1077eec48ac2d3b036872812535f78d950bd4b95759055ca9b353a"
+            "hash": "894fe6dc6ad33f2d8a370cca8ced9f007322fc4de34a5ca1247342fbdc44fb82"
         },
         "arm64": {
             "url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.23/imgcat_1.0.23_windows_arm64.zip",
             "bin": [
                 "imgcat.exe"
             ],
-            "hash": "1e07f812f7443a205ec0e5a29462429ad114bd07385863c501de31604754b598"
+            "hash": "53054b1f226114e178984f30128f3d934be4719968017a4e87c65bd128dab69e"
         }
     },
     "description": "Display images and gifs in your terminal"
